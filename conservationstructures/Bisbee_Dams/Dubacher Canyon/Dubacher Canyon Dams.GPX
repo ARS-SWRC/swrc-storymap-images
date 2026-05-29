@@ -1,0 +1,2030 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1" creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2020-05-28T23:59:18Z</time>
+    <bounds maxlat="31.462595975026488" maxlon="-109.931410364806652" minlat="31.454922677949071" minlon="-109.939714064821601"/>
+  </metadata>
+  <wpt lat="31.456437706947327" lon="-109.931690823286772">
+    <ele>1717.852800000000116</ele>
+    <time>2019-12-04T16:31:07Z</time>
+    <name>Wood #1</name>
+    <cmt>21-JUL-18 10:19:45AM</cmt>
+    <desc>21-JUL-18 10:19:45AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-12-04T16:31:07Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.462300010025501" lon="-109.934523487463593">
+    <ele>1791.919200000000046</ele>
+    <time>2019-11-24T03:56:02Z</time>
+    <name>Wood #100</name>
+    <cmt>23-NOV-19 11:07:53AM</cmt>
+    <desc>23-NOV-19 11:07:53AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-11-24T03:56:02Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.462397575378418" lon="-109.934514183551073">
+    <ele>1791.919200000000046</ele>
+    <time>2019-11-24T03:56:02Z</time>
+    <name>Wood #101</name>
+    <cmt>23-NOV-19 11:09:52AM</cmt>
+    <desc>23-NOV-19 11:09:52AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-11-24T03:56:02Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.462595975026488" lon="-109.934681570157409">
+    <ele>1794.662400000000162</ele>
+    <time>2019-11-24T03:56:02Z</time>
+    <name>Wood #102</name>
+    <cmt>23-NOV-19 11:11:34AM</cmt>
+    <desc>23-NOV-19 11:11:34AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-11-24T03:56:02Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.458924952894449" lon="-109.931621504947543">
+    <ele>1749.552000000000135</ele>
+    <time>2019-11-24T03:56:02Z</time>
+    <name>Wood #103</name>
+    <cmt>23-NOV-19 11:58:00AM</cmt>
+    <desc>23-NOV-19 11:58:00AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-11-24T03:56:02Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.456714142113924" lon="-109.931585881859064">
+    <ele>1718.157600000000002</ele>
+    <time>2019-12-04T16:31:07Z</time>
+    <name>Wood #2</name>
+    <cmt>21-JUL-18 10:22:27AM</cmt>
+    <desc>21-JUL-18 10:22:27AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-12-04T16:31:07Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.45944002084434" lon="-109.932522308081388">
+    <ele>1751.990400000000136</ele>
+    <time>2019-11-24T03:56:02Z</time>
+    <name>Wood #83</name>
+    <cmt>23-NOV-19 9:56:13AM</cmt>
+    <desc>23-NOV-19 9:56:13AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-11-24T03:56:02Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.459634229540825" lon="-109.932608976960182">
+    <ele>1751.685600000000022</ele>
+    <time>2019-11-24T03:56:02Z</time>
+    <name>Wood #84</name>
+    <cmt>23-NOV-19 10:04:03AM</cmt>
+    <desc>23-NOV-19 10:04:03AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-11-24T03:56:02Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.459742523729801" lon="-109.932841658592224">
+    <ele>1754.428800000000138</ele>
+    <time>2019-11-24T03:56:02Z</time>
+    <name>Wood #85</name>
+    <cmt>23-NOV-19 10:06:28AM</cmt>
+    <desc>23-NOV-19 10:06:28AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-11-24T03:56:02Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.459821062162519" lon="-109.932836880907416">
+    <ele>1754.428800000000138</ele>
+    <time>2019-11-24T03:56:02Z</time>
+    <name>Wood #86</name>
+    <cmt>23-NOV-19 10:09:55AM</cmt>
+    <desc>23-NOV-19 10:09:55AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-11-24T03:56:02Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.46028189919889" lon="-109.932796144858003">
+    <ele>1755.952800000000025</ele>
+    <time>2019-11-24T03:56:02Z</time>
+    <name>Wood #87</name>
+    <cmt>23-NOV-19 10:13:52AM</cmt>
+    <desc>23-NOV-19 10:13:52AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-11-24T03:56:02Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.460428582504392" lon="-109.932896392419934">
+    <ele>1760.524800000000141</ele>
+    <time>2019-11-24T03:56:02Z</time>
+    <name>Wood #88</name>
+    <cmt>23-NOV-19 10:18:11AM</cmt>
+    <desc>23-NOV-19 10:18:11AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-11-24T03:56:02Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.460741478949785" lon="-109.933320432901382">
+    <ele>1763.268000000000029</ele>
+    <time>2019-11-24T03:56:02Z</time>
+    <name>Wood #89</name>
+    <cmt>23-NOV-19 10:21:33AM</cmt>
+    <desc>23-NOV-19 10:21:33AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-11-24T03:56:02Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.460865698754787" lon="-109.933407856151462">
+    <ele>1765.09680000000003</ele>
+    <time>2019-11-24T03:56:02Z</time>
+    <name>Wood #90</name>
+    <cmt>23-NOV-19 10:23:05AM</cmt>
+    <desc>23-NOV-19 10:23:05AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-11-24T03:56:02Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.460964102298021" lon="-109.933557892218232">
+    <ele>1766.011200000000144</ele>
+    <time>2019-11-24T03:56:02Z</time>
+    <name>Wood #91</name>
+    <cmt>23-NOV-19 10:26:19AM</cmt>
+    <desc>23-NOV-19 10:26:19AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-11-24T03:56:02Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.461098296567798" lon="-109.933650009334087">
+    <ele>1768.449600000000146</ele>
+    <time>2019-11-24T03:56:02Z</time>
+    <name>Wood #92</name>
+    <cmt>23-NOV-19 10:29:05AM</cmt>
+    <desc>23-NOV-19 10:29:05AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-11-24T03:56:02Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.461193012073636" lon="-109.933662414550781">
+    <ele>1771.192800000000034</ele>
+    <time>2019-11-24T03:56:02Z</time>
+    <name>Wood #93</name>
+    <cmt>23-NOV-19 10:30:08AM</cmt>
+    <desc>23-NOV-19 10:30:08AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-11-24T03:56:02Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.461471961811185" lon="-109.933990901336074">
+    <ele>1772.716800000000148</ele>
+    <time>2019-11-24T03:56:02Z</time>
+    <name>Wood #94</name>
+    <cmt>23-NOV-19 10:49:43AM</cmt>
+    <desc>23-NOV-19 10:49:43AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-11-24T03:56:02Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.46161780692637" lon="-109.934097519144416">
+    <ele>1774.240800000000036</ele>
+    <time>2019-11-24T03:56:02Z</time>
+    <name>Wood #95</name>
+    <cmt>23-NOV-19 10:52:22AM</cmt>
+    <desc>23-NOV-19 10:52:22AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-11-24T03:56:02Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.461729453876615" lon="-109.934241352602839">
+    <ele>1778.508000000000038</ele>
+    <time>2019-11-24T03:56:02Z</time>
+    <name>Wood #96</name>
+    <cmt>23-NOV-19 10:55:21AM</cmt>
+    <desc>23-NOV-19 10:55:21AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-11-24T03:56:02Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.461981413885951" lon="-109.934313269332051">
+    <ele>1782.16560000000004</ele>
+    <time>2019-11-24T03:56:02Z</time>
+    <name>Wood #97</name>
+    <cmt>23-NOV-19 10:59:00AM</cmt>
+    <desc>23-NOV-19 10:59:00AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-11-24T03:56:02Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.462184172123671" lon="-109.934383258223534">
+    <ele>1786.432800000000043</ele>
+    <time>2019-11-24T03:56:02Z</time>
+    <name>Wood #99</name>
+    <cmt>23-NOV-19 11:03:21AM</cmt>
+    <desc>23-NOV-19 11:03:21AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-11-24T03:56:02Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.458275942131877" lon="-109.931495944038033">
+    <ele>1734.007200000000012</ele>
+    <time>2018-09-22T01:33:37Z</time>
+    <name>Wood#10</name>
+    <cmt>21-JUL-18 10:39:06AM</cmt>
+    <desc>21-JUL-18 10:39:06AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2018-09-22T01:33:37Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.458580372855067" lon="-109.931631814688444">
+    <ele>1736.445600000000013</ele>
+    <time>2018-09-22T01:33:37Z</time>
+    <name>Wood#11</name>
+    <cmt>21-JUL-18 10:41:34AM</cmt>
+    <desc>21-JUL-18 10:41:34AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2018-09-22T01:33:37Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.458714483305812" lon="-109.931611362844706">
+    <ele>1738.274400000000014</ele>
+    <time>2018-09-22T01:33:37Z</time>
+    <name>Wood#12</name>
+    <cmt>21-JUL-18 10:42:55AM</cmt>
+    <desc>21-JUL-18 10:42:55AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2018-09-22T01:33:37Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.458868458867073" lon="-109.931561406701803">
+    <ele>1740.712800000000016</ele>
+    <time>2018-09-22T01:33:37Z</time>
+    <name>Wood#13</name>
+    <cmt>21-JUL-18 10:44:20AM</cmt>
+    <desc>21-JUL-18 10:44:20AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2018-09-22T01:33:37Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.459008771926165" lon="-109.931923672556877">
+    <ele>1742.846400000000131</ele>
+    <time>2018-09-22T01:33:37Z</time>
+    <name>Wood#14</name>
+    <cmt>21-JUL-18 10:46:57AM</cmt>
+    <desc>21-JUL-18 10:46:57AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2018-09-22T01:33:37Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.459141373634338" lon="-109.93224972859025">
+    <ele>1743.456000000000131</ele>
+    <time>2018-09-22T01:33:37Z</time>
+    <name>Wood#15</name>
+    <cmt>21-JUL-18 10:49:22AM</cmt>
+    <desc>21-JUL-18 10:49:22AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2018-09-22T01:33:37Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.459194263443351" lon="-109.932423653081059">
+    <ele>1744.065600000000131</ele>
+    <time>2018-09-22T01:33:37Z</time>
+    <name>Wood#16</name>
+    <cmt>21-JUL-18 10:51:33AM</cmt>
+    <desc>21-JUL-18 10:51:33AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2018-09-22T01:33:37Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.454922677949071" lon="-109.932503448799253">
+    <ele>1651.71120000000019</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#17</name>
+    <cmt>23-SEP-19 10:13:25AM</cmt>
+    <desc>23-SEP-19 10:13:25AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.455019991844893" lon="-109.932704865932465">
+    <ele>1663.903200000000197</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#18</name>
+    <cmt>23-SEP-19 10:18:25AM</cmt>
+    <desc>23-SEP-19 10:18:25AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.455060476437211" lon="-109.933055145666003">
+    <ele>1668.779999999999973</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#19</name>
+    <cmt>23-SEP-19 10:20:13AM</cmt>
+    <desc>23-SEP-19 10:20:13AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.455191904678941" lon="-109.933366701006889">
+    <ele>1677.009600000000091</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#20</name>
+    <cmt>23-SEP-19 10:22:50AM</cmt>
+    <desc>23-SEP-19 10:22:50AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.455279160290956" lon="-109.933501649647951">
+    <ele>1682.800799999999981</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#21</name>
+    <cmt>23-SEP-19 10:24:24AM</cmt>
+    <desc>23-SEP-19 10:24:24AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.455425508320332" lon="-109.933566274121404">
+    <ele>1686.763200000000097</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#22</name>
+    <cmt>23-SEP-19 10:25:26AM</cmt>
+    <desc>23-SEP-19 10:25:26AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.455501280725002" lon="-109.933677669614553">
+    <ele>1689.506399999999985</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#23</name>
+    <cmt>23-SEP-19 10:27:17AM</cmt>
+    <desc>23-SEP-19 10:27:17AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.455574873834848" lon="-109.933896185830235">
+    <ele>1695.907200000000103</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#24</name>
+    <cmt>23-SEP-19 10:29:21AM</cmt>
+    <desc>23-SEP-19 10:29:21AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.45566875115037" lon="-109.934054100885987">
+    <ele>1697.736000000000104</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#25</name>
+    <cmt>23-SEP-19 10:31:05AM</cmt>
+    <desc>23-SEP-19 10:31:05AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.455713007599115" lon="-109.934106487780809">
+    <ele>1701.393600000000106</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#26</name>
+    <cmt>23-SEP-19 10:32:48AM</cmt>
+    <desc>23-SEP-19 10:32:48AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.455893134698272" lon="-109.934359369799495">
+    <ele>1706.270400000000109</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#27</name>
+    <cmt>23-SEP-19 10:34:35AM</cmt>
+    <desc>23-SEP-19 10:34:35AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.455966560170054" lon="-109.934476967900991">
+    <ele>1708.70880000000011</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#28</name>
+    <cmt>23-SEP-19 10:36:04AM</cmt>
+    <desc>23-SEP-19 10:36:04AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.455981899052858" lon="-109.934690035879612">
+    <ele>1712.366400000000112</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#29</name>
+    <cmt>23-SEP-19 10:37:13AM</cmt>
+    <desc>23-SEP-19 10:37:13AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.456838781014085" lon="-109.931575153023005">
+    <ele>1720.291200000000117</ele>
+    <time>2018-09-22T01:33:37Z</time>
+    <name>Wood#3</name>
+    <cmt>21-JUL-18 10:24:56AM</cmt>
+    <desc>21-JUL-18 10:24:56AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2018-09-22T01:33:37Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.455994807183743" lon="-109.934797240421176">
+    <ele>1717.852800000000116</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#30</name>
+    <cmt>23-SEP-19 10:41:01AM</cmt>
+    <desc>23-SEP-19 10:41:01AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.456071836873889" lon="-109.934926405549049">
+    <ele>1720.291200000000117</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#31</name>
+    <cmt>23-SEP-19 10:43:02AM</cmt>
+    <desc>23-SEP-19 10:43:02AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.456105699762702" lon="-109.935024809092283">
+    <ele>1721.815200000000004</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#32</name>
+    <cmt>23-SEP-19 10:43:53AM</cmt>
+    <desc>23-SEP-19 10:43:53AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.456125397235155" lon="-109.935066886246204">
+    <ele>1724.55840000000012</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#33</name>
+    <cmt>23-SEP-19 10:45:47AM</cmt>
+    <desc>23-SEP-19 10:45:47AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.456216927617788" lon="-109.935123631730676">
+    <ele>1726.996800000000121</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#34</name>
+    <cmt>23-SEP-19 10:46:57AM</cmt>
+    <desc>23-SEP-19 10:46:57AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.456251796334982" lon="-109.935262436047196">
+    <ele>1728.216000000000122</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#35</name>
+    <cmt>23-SEP-19 10:48:27AM</cmt>
+    <desc>23-SEP-19 10:48:27AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.456204270943999" lon="-109.93544097058475">
+    <ele>1730.95920000000001</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#36</name>
+    <cmt>23-SEP-19 10:49:14AM</cmt>
+    <desc>23-SEP-19 10:49:14AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.456226063892245" lon="-109.935498721897602">
+    <ele>1734.921600000000126</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#37</name>
+    <cmt>23-SEP-19 10:53:01AM</cmt>
+    <desc>23-SEP-19 10:53:01AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.456234361976385" lon="-109.935640208423138">
+    <ele>1736.750400000000127</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#38</name>
+    <cmt>23-SEP-19 10:54:35AM</cmt>
+    <desc>23-SEP-19 10:54:35AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.456299154087901" lon="-109.935722099617124">
+    <ele>1740.712800000000016</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#39</name>
+    <cmt>23-SEP-19 10:56:02AM</cmt>
+    <desc>23-SEP-19 10:56:02AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.457493659108877" lon="-109.931729380041361">
+    <ele>1725.77760000000012</ele>
+    <time>2018-09-22T01:33:37Z</time>
+    <name>Wood#4</name>
+    <cmt>21-JUL-18 10:28:00AM</cmt>
+    <desc>21-JUL-18 10:28:00AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2018-09-22T01:33:37Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.456478862091899" lon="-109.935761829838157">
+    <ele>1741.62720000000013</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#40</name>
+    <cmt>23-SEP-19 10:57:14AM</cmt>
+    <desc>23-SEP-19 10:57:14AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.456533847376704" lon="-109.935895521193743">
+    <ele>1743.760800000000017</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#41</name>
+    <cmt>23-SEP-19 10:59:05AM</cmt>
+    <desc>23-SEP-19 10:59:05AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.456645661965013" lon="-109.935943717136979">
+    <ele>1747.113600000000133</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#42</name>
+    <cmt>23-SEP-19 11:00:13AM</cmt>
+    <desc>23-SEP-19 11:00:13AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.456791674718261" lon="-109.935946231707931">
+    <ele>1751.685600000000022</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#43</name>
+    <cmt>23-SEP-19 11:02:05AM</cmt>
+    <desc>23-SEP-19 11:02:05AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.45701102912426" lon="-109.935862496495247">
+    <ele>1755.038400000000138</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#44</name>
+    <cmt>23-SEP-19 11:04:22AM</cmt>
+    <desc>23-SEP-19 11:04:22AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.457093926146626" lon="-109.935912452638149">
+    <ele>1766.925600000000031</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#45</name>
+    <cmt>23-SEP-19 11:07:01AM</cmt>
+    <desc>23-SEP-19 11:07:01AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.45725728943944" lon="-109.935979759320617">
+    <ele>1769.973600000000033</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#46</name>
+    <cmt>23-SEP-19 11:09:50AM</cmt>
+    <desc>23-SEP-19 11:09:50AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.457325769588351" lon="-109.936154019087553">
+    <ele>1774.850400000000036</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#47</name>
+    <cmt>23-SEP-19 11:10:31AM</cmt>
+    <desc>23-SEP-19 11:10:31AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.45736332051456" lon="-109.936276562511921">
+    <ele>1776.984000000000151</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#48</name>
+    <cmt>23-SEP-19 11:12:42AM</cmt>
+    <desc>23-SEP-19 11:12:42AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.457365583628416" lon="-109.936423916369677">
+    <ele>1779.117600000000039</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#49</name>
+    <cmt>23-SEP-19 11:14:24AM</cmt>
+    <desc>23-SEP-19 11:14:24AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.457554930821061" lon="-109.931649081408978">
+    <ele>1725.77760000000012</ele>
+    <time>2018-09-22T01:33:37Z</time>
+    <name>Wood#5</name>
+    <cmt>21-JUL-18 10:28:52AM</cmt>
+    <desc>21-JUL-18 10:28:52AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2018-09-22T01:33:37Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.457428364083171" lon="-109.936652407050133">
+    <ele>1784.908800000000156</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#50</name>
+    <cmt>23-SEP-19 11:16:35AM</cmt>
+    <desc>23-SEP-19 11:16:35AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.457521989941597" lon="-109.936757432296872">
+    <ele>1790.090400000000045</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#51</name>
+    <cmt>23-SEP-19 11:17:46AM</cmt>
+    <desc>23-SEP-19 11:17:46AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.457644365727901" lon="-109.937000758945942">
+    <ele>1793.443200000000161</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#52</name>
+    <cmt>23-SEP-19 11:18:55AM</cmt>
+    <desc>23-SEP-19 11:18:55AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.457632714882493" lon="-109.937076531350613">
+    <ele>1795.576800000000048</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#53</name>
+    <cmt>23-SEP-19 11:20:07AM</cmt>
+    <desc>23-SEP-19 11:20:07AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.457675965502858" lon="-109.937144760042429">
+    <ele>1797.100800000000163</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#54</name>
+    <cmt>23-SEP-19 11:21:37AM</cmt>
+    <desc>23-SEP-19 11:21:37AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.457900181412697" lon="-109.93738523684442">
+    <ele>1807.464000000000169</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#55</name>
+    <cmt>23-SEP-19 11:26:00AM</cmt>
+    <desc>23-SEP-19 11:26:00AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.457946617156267" lon="-109.937602076679468">
+    <ele>1810.816800000000057</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#56</name>
+    <cmt>23-SEP-19 11:28:08AM</cmt>
+    <desc>23-SEP-19 11:28:08AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.458032196387649" lon="-109.937818665057421">
+    <ele>1814.47440000000006</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#57</name>
+    <cmt>23-SEP-19 11:29:17AM</cmt>
+    <desc>23-SEP-19 11:29:17AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.45806840620935" lon="-109.937985464930534">
+    <ele>1817.827200000000175</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#58</name>
+    <cmt>23-SEP-19 11:31:47AM</cmt>
+    <desc>23-SEP-19 11:31:47AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.458047535270452" lon="-109.938093423843384">
+    <ele>1817.827200000000175</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#59</name>
+    <cmt>23-SEP-19 11:33:25AM</cmt>
+    <desc>23-SEP-19 11:33:25AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.457620477303863" lon="-109.931451519951224">
+    <ele>1727.301600000000008</ele>
+    <time>2018-09-22T01:33:37Z</time>
+    <name>Wood#6</name>
+    <cmt>21-JUL-18 10:31:35AM</cmt>
+    <desc>21-JUL-18 10:31:35AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2018-09-22T01:33:37Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.458136886358261" lon="-109.938483685255051">
+    <ele>1826.971200000000181</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#60</name>
+    <cmt>23-SEP-19 11:36:07AM</cmt>
+    <desc>23-SEP-19 11:36:07AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.458189357072115" lon="-109.938558954745531">
+    <ele>1828.190400000000182</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#61</name>
+    <cmt>23-SEP-19 11:37:26AM</cmt>
+    <desc>23-SEP-19 11:37:26AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.4582091383636" lon="-109.938682671636343">
+    <ele>1832.15280000000007</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#62</name>
+    <cmt>23-SEP-19 11:39:37AM</cmt>
+    <desc>23-SEP-19 11:39:37AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.458249874413013" lon="-109.93885014206171">
+    <ele>1835.200800000000072</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#63</name>
+    <cmt>23-SEP-19 11:42:17AM</cmt>
+    <desc>23-SEP-19 11:42:17AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.458443747833371" lon="-109.939136719331145">
+    <ele>1844.954400000000078</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#64</name>
+    <cmt>23-SEP-19 11:44:22AM</cmt>
+    <desc>23-SEP-19 11:44:22AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.458591688424349" lon="-109.939230345189571">
+    <ele>1851.964800000000196</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#65</name>
+    <cmt>23-SEP-19 11:46:05AM</cmt>
+    <desc>23-SEP-19 11:46:05AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.458816239610314" lon="-109.939391948282719">
+    <ele>1853.184000000000196</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#66</name>
+    <cmt>23-SEP-19 11:47:42AM</cmt>
+    <desc>23-SEP-19 11:47:42AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.45890106447041" lon="-109.939584480598569">
+    <ele>1856.536800000000085</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#67</name>
+    <cmt>23-SEP-19 11:48:42AM</cmt>
+    <desc>23-SEP-19 11:48:42AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.459188144654036" lon="-109.939604261890054">
+    <ele>1866.900000000000091</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#68</name>
+    <cmt>23-SEP-19 11:53:21AM</cmt>
+    <desc>23-SEP-19 11:53:21AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.459375647827983" lon="-109.939714064821601">
+    <ele>1872.081600000000208</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#69</name>
+    <cmt>23-SEP-19 11:55:13AM</cmt>
+    <desc>23-SEP-19 11:55:13AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.457698345184326" lon="-109.931451184675097">
+    <ele>1728.216000000000122</ele>
+    <time>2018-09-22T01:33:37Z</time>
+    <name>Wood#7</name>
+    <cmt>21-JUL-18 10:32:17AM</cmt>
+    <desc>21-JUL-18 10:32:17AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2018-09-22T01:33:37Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.459487546235323" lon="-109.939700989052653">
+    <ele>1874.519999999999982</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#70</name>
+    <cmt>23-SEP-19 11:56:21AM</cmt>
+    <desc>23-SEP-19 11:56:21AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.459610005840659" lon="-109.939673412591219">
+    <ele>1879.396799999999985</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#71</name>
+    <cmt>23-SEP-19 11:57:29AM</cmt>
+    <desc>23-SEP-19 11:57:29AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.459795832633972" lon="-109.939635945484042">
+    <ele>1887.93119999999999</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#72</name>
+    <cmt>23-SEP-19 11:59:12AM</cmt>
+    <desc>23-SEP-19 11:59:12AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.459929775446653" lon="-109.939594371244311">
+    <ele>1892.503200000000106</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#73</name>
+    <cmt>23-SEP-19 12:00:17PM</cmt>
+    <desc>23-SEP-19 12:00:17PM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.460299668833613" lon="-109.939475934952497">
+    <ele>1904.3904</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#75</name>
+    <cmt>23-SEP-19 12:03:56PM</cmt>
+    <desc>23-SEP-19 12:03:56PM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.460382230579853" lon="-109.939508372917771">
+    <ele>1903.476000000000113</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#76</name>
+    <cmt>23-SEP-19 12:04:13PM</cmt>
+    <desc>23-SEP-19 12:04:13PM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.460399916395545" lon="-109.939504852518439">
+    <ele>1905</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#77</name>
+    <cmt>23-SEP-19 12:05:16PM</cmt>
+    <desc>23-SEP-19 12:05:16PM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.460544252768159" lon="-109.939413322135806">
+    <ele>1907.133600000000115</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#78</name>
+    <cmt>23-SEP-19 12:06:00PM</cmt>
+    <desc>23-SEP-19 12:06:00PM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.4606630243361" lon="-109.939355822280049">
+    <ele>1908.657600000000002</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#79</name>
+    <cmt>23-SEP-19 12:06:34PM</cmt>
+    <desc>23-SEP-19 12:06:34PM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.457876041531563" lon="-109.931493094190955">
+    <ele>1730.349600000000009</ele>
+    <time>2018-09-22T01:33:37Z</time>
+    <name>Wood#8</name>
+    <cmt>21-JUL-18 10:34:14AM</cmt>
+    <desc>21-JUL-18 10:34:14AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2018-09-22T01:33:37Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.460795542225242" lon="-109.939317684620619">
+    <ele>1912.315200000000004</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#80</name>
+    <cmt>23-SEP-19 12:07:13PM</cmt>
+    <desc>23-SEP-19 12:07:13PM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.460894532501698" lon="-109.939326150342822">
+    <ele>1915.05840000000012</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#81</name>
+    <cmt>23-SEP-19 12:07:37PM</cmt>
+    <desc>23-SEP-19 12:07:37PM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.461012382060289" lon="-109.939319528639317">
+    <ele>1917.801600000000008</ele>
+    <time>2019-09-24T01:29:32Z</time>
+    <name>Wood#82</name>
+    <cmt>23-SEP-19 12:08:14PM</cmt>
+    <desc>23-SEP-19 12:08:14PM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-09-24T01:29:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="31.458212994039059" lon="-109.931410364806652">
+    <ele>1731.56880000000001</ele>
+    <time>2018-09-22T01:33:37Z</time>
+    <name>Wood#9</name>
+    <cmt>21-JUL-18 10:37:48AM</cmt>
+    <desc>21-JUL-18 10:37:48AM</desc>
+    <sym>City (Small)</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2018-09-22T01:33:37Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+</gpx>
